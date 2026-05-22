@@ -1,0 +1,114 @@
+# news-webhook configuration
+#
+# Two tightly-curated topics, both on weekdays:
+#   1) AI × biology  — 1 paper, only if relevant
+#   2) ai            — 1 paper, only if relevant
+#
+# Each topic has `relevance_check: true`, so the LLM filters candidates against
+# `relevance_criteria` and returns nothing on uninteresting days.
+
+discord:
+  # Name of the env var holding your Discord webhook URL.
+  # Never paste the URL directly here — keep it in GitHub Secrets / a .env file.
+  webhook_url_env: DISCORD_WEBHOOK_URL
+
+llm:
+  # provider: gemini | anthropic | openai | groq
+  provider: gemini
+  model: gemini-3.5-flash
+  api_key_env: GEMINI_API_KEY
+  # Optional extras passed through to the provider:
+  # params:
+  #   temperature: 0.3
+
+# Default summary style. Override per-topic with `style:`.
+default_style: |
+  Write a concise 2-3 sentence summary aimed at a technically literate reader.
+  Lead with the most newsworthy finding. No marketing language. No emojis.
+
+topics:
+  # -------------------------------------------------------------------------
+  # 1. AI × biology — papers applying ML to biological problems.
+  # -------------------------------------------------------------------------
+  - name: BioAI
+    enabled: true
+    frequency: weekdays
+    max_articles: 1
+    enrich_fulltext: true       # try PMC for OA full-text on PubMed articles
+    relevance_check: true
+    relevance_criteria: |
+      Anything touching ML applied to biology is fine — protein
+      structure/design, genomics, drug discovery, single-cell, cryo-EM,
+      virtual screening, etc. Minor results, incremental methods, and
+      review articles are all OK.
+      Skip only: forum/community-advice threads (e.g. Reddit posts asking
+      for help, recommendations, or career advice) and pure marketing.
+    # style: |
+    #   Write a concise 2-3 sentence summary aimed at a technically literate
+    #   reader who works at the intersection of ML and biology. Lead with the
+    #   most newsworthy result. Name the method family (e.g. transformer,
+    #   diffusion, GNN) and the biological domain (e.g. cryo-EM, scRNA-seq,
+    #   virtual screening). No marketing language.
+    sources:
+      # PubMed is biomedical-only, so any paper using ML methods is by
+      # definition at the intersection. Tune the method terms to taste.
+      - type: pubmed
+        query: >-
+          ("deep learning"[tiab] OR "machine learning"[tiab]
+           OR "artificial intelligence"[tiab] OR "neural network"[tiab]
+           OR "foundation model"[tiab] OR "large language model"[tiab]
+           OR "transformer"[tiab] OR "diffusion model"[tiab]
+           OR "graph neural network"[tiab])
+          AND ("last 7 days"[dp])
+        sort: relevance
+      # arXiv q-bio.QM = Quantitative Methods — heavy ML-for-biology overlap.
+      - type: rss
+        url: https://export.arxiv.org/rss/q-bio.QM
+      # arXiv q-bio.BM = Biomolecules — protein structure, folding, design.
+      - type: rss
+        url: https://export.arxiv.org/rss/q-bio.BM
+      # arXiv q-bio.GN = Genomics — sequence models, variant calling, etc.
+      - type: rss
+        url: https://export.arxiv.org/rss/q-bio.GN
+      # Nature's curated computational biology + bioinformatics feed.
+      - type: rss
+        url: https://www.nature.com/subjects/computational-biology-and-bioinformatics.rss
+
+  # -------------------------------------------------------------------------
+  # 2. ai — at most 1 genuinely interesting AI paper/news item per weekday.
+  # -------------------------------------------------------------------------
+  - name: ai
+    enabled: true
+    frequency: weekdays
+    max_articles: 1
+    enrich_fulltext: false
+    relevance_check: true
+    relevance_criteria: |
+      Any AI news item is fine — new models, methods, results, industry
+      news, even minor releases or incremental benchmark bumps.
+      Skip only: forum/community-advice threads (e.g. Reddit posts asking
+      for help, recommendations, or career advice) and pure marketing/op-eds.
+    sources:
+      # /r/MachineLearning top of the day — community-voted, good "interesting" proxy.
+      - type: rss
+        url: https://www.reddit.com/r/MachineLearning/top/.rss?t=day
+      # Nature Machine Intelligence — high editorial bar.
+      - type: rss
+        url: https://www.nature.com/natmachintell.rss
+      # arXiv cs.AI as a fallback firehose when curated sources are quiet.
+      - type: rss
+        url: https://export.arxiv.org/rss/cs.AI
+
+
+  - name: biology
+    enabled: true
+    frequency: daily            # daily | weekly | weekdays | weekends
+    max_articles: 1
+    enrich_fulltext: true       # try Unpaywall / PMC for OA full-text
+    sources:
+      - type: pubmed
+        # PubMed query syntax: https://pubmed.ncbi.nlm.nih.gov/help/
+        query: '(CRISPR[tiab] OR "gene therapy"[tiab] OR mRNA[tiab] OR biotechnology[mesh]) AND ("last 7 days"[dp])'
+        sort: relevance         # relevance | date
+      - type: rss
+        url: https://www.nature.com/subjects/biotechnology.rss

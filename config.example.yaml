@@ -1,0 +1,50 @@
+# news-webhook configuration
+#
+# Copy to config.yaml and edit. The workflow reads config.yaml by default;
+# override with --config path/to/file.yaml.
+
+discord:
+  # Name of the env var holding your Discord webhook URL.
+  # Never paste the URL directly here — keep it in GitHub Secrets / a .env file.
+  webhook_url_env: DISCORD_WEBHOOK_URL
+
+llm:
+  # provider: gemini | anthropic | openai | groq
+  provider: gemini
+  model: gemini-2.5-flash      # check https://ai.dev/rate-limit — older models may show 0/0
+  api_key_env: GEMINI_API_KEY
+  # Optional extras passed through to the provider:
+  # params:
+  #   temperature: 0.3
+
+# Per-topic summary style. Override per-topic with `style:`.
+default_style: |
+  Write a concise 2-3 sentence summary aimed at a technically literate reader.
+  Lead with the most newsworthy finding. No marketing language. No emojis.
+
+topics:
+  - name: biology
+    enabled: true
+    frequency: daily            # daily | weekly | weekdays | weekends
+    max_articles: 5
+    enrich_fulltext: true       # try Unpaywall / PMC for OA full-text
+    sources:
+      - type: pubmed
+        # PubMed query syntax: https://pubmed.ncbi.nlm.nih.gov/help/
+        query: '(CRISPR[tiab] OR "gene therapy"[tiab] OR mRNA[tiab] OR biotechnology[mesh]) AND ("last 7 days"[dp])'
+        sort: relevance         # relevance | date
+      - type: rss
+        url: https://www.nature.com/subjects/biotechnology.rss
+
+  - name: ai
+    enabled: true
+    frequency: weekdays
+    max_articles: 5
+    enrich_fulltext: false
+    sources:
+      - type: rss
+        url: https://export.arxiv.org/rss/cs.AI
+      - type: rss
+        url: https://export.arxiv.org/rss/cs.LG
+      - type: rss
+        url: https://techcrunch.com/category/artificial-intelligence/feed/
