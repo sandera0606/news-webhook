@@ -32,7 +32,7 @@ topics:
   # -------------------------------------------------------------------------
   - name: BioAI
     enabled: true
-    frequency: weekdays
+    frequency: daily
     max_articles: 1
     enrich_fulltext: true       # try PMC for OA full-text on PubMed articles
     relevance_check: true
@@ -79,7 +79,7 @@ topics:
   # -------------------------------------------------------------------------
   - name: ai
     enabled: true
-    frequency: weekdays
+    frequency: daily
     max_articles: 1
     enrich_fulltext: false
     relevance_check: true
@@ -106,7 +106,7 @@ topics:
   # -------------------------------------------------------------------------
   - name: anti-ai
     enabled: true
-    frequency: weekdays
+    frequency: daily
     max_articles: 1
     enrich_fulltext: false
     relevance_check: true
