@@ -100,6 +100,35 @@ topics:
         url: https://export.arxiv.org/rss/cs.AI
 
 
+  # -------------------------------------------------------------------------
+  # 3. anti-ai — substantive criticism of AI: environmental cost, capability
+  #    limits, methodological critiques, labor/economic harms, hype debunking.
+  # -------------------------------------------------------------------------
+  - name: anti-ai
+    enabled: true
+    frequency: weekdays
+    max_articles: 1
+    enrich_fulltext: false
+    relevance_check: true
+    relevance_criteria: |
+      Only include substantive, evidence-based critique of AI. Good fits:
+      water/energy footprint of training and inference, peer-reviewed
+      capability limits or failure modes, replication failures of benchmark
+      claims, methodological problems in evals, documented labor or
+      copyright harms, debunking of specific industry hype.
+      Skip: generic doomerism, vibes-only op-eds, anti-AI-art culture-war
+      threads, "AI is dumb lol" memes, vague ethics hand-waving without
+      concrete claims, and forum advice/recommendation threads.
+      If nothing meets this bar today, return nothing.
+    sources:
+      # Ed Zitron's AI-skeptical community — top of day, community-voted.
+      - type: rss
+        url: https://www.reddit.com/r/BetterOffline/top/.rss?t=day
+      # arXiv cs.CY = Computers and Society — AI ethics, environmental
+      # studies, methodological critiques.
+      - type: rss
+        url: https://export.arxiv.org/rss/cs.CY
+
   - name: biology
     enabled: true
     frequency: daily            # daily | weekly | weekdays | weekends
