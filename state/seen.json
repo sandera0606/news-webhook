@@ -3,12 +3,14 @@
     "pmid:42154787": "2026-05-23"
   },
   "ai": {
-    "rss:https://www.nature.com/articles/s42256-026-01233-9": "2026-05-23"
+    "rss:https://www.nature.com/articles/s42256-026-01233-9": "2026-05-23",
+    "rss:https://www.nature.com/articles/s42256-026-01238-4": "2026-05-24"
   },
   "anti-ai": {
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tklehb": "2026-05-23"
   },
   "biology": {
+    "pmid:41435452": "2026-05-24",
     "pmid:42150522": "2026-05-23"
   }
 }
