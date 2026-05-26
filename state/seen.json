@@ -1,20 +1,24 @@
 {
   "BioAI": {
     "pmid:42154787": "2026-05-23",
-    "rss:oai:arXiv.org:2602.13249v2": "2026-05-25"
+    "rss:oai:arXiv.org:2602.13249v2": "2026-05-25",
+    "rss:oai:arXiv.org:2605.23960v1": "2026-05-26"
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01233-9": "2026-05-23",
     "rss:https://www.nature.com/articles/s42256-026-01234-8": "2026-05-25",
-    "rss:https://www.nature.com/articles/s42256-026-01238-4": "2026-05-24"
+    "rss:https://www.nature.com/articles/s42256-026-01238-4": "2026-05-24",
+    "rss:oai:arXiv.org:2605.23926v1": "2026-05-26"
   },
   "anti-ai": {
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tklehb": "2026-05-23",
-    "rss:oai:arXiv.org:2605.22995v1": "2026-05-25"
+    "rss:oai:arXiv.org:2605.22995v1": "2026-05-25",
+    "rss:oai:arXiv.org:2605.23921v1": "2026-05-26"
   },
   "biology": {
     "pmid:41435452": "2026-05-24",
     "pmid:42132062": "2026-05-25",
-    "pmid:42150522": "2026-05-23"
+    "pmid:42150522": "2026-05-23",
+    "pmid:42178743": "2026-05-26"
   }
 }
