@@ -1,5 +1,6 @@
 {
   "BioAI": {
+    "pmid:41576559": "2026-06-08",
     "pmid:42154787": "2026-05-23",
     "rss:https://www.nature.com/articles/s41598-026-55611-9": "2026-06-06",
     "rss:oai:arXiv.org:2602.13249v2": "2026-05-25",
@@ -28,7 +29,8 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1tvameq": "2026-06-03",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1twmhud": "2026-06-04",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1txlxm6": "2026-06-05",
-    "rss:oai:arXiv.org:2605.23926v1": "2026-05-26"
+    "rss:oai:arXiv.org:2605.23926v1": "2026-05-26",
+    "rss:oai:arXiv.org:2606.06519v1": "2026-06-08"
   },
   "anti-ai": {
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tklehb": "2026-05-23",
@@ -40,6 +42,7 @@
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tu09ct": "2026-06-02",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tvmj6z": "2026-06-03",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tx6m94": "2026-06-05",
+    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tzwnhi": "2026-06-08",
     "rss:oai:arXiv.org:2605.22995v1": "2026-05-25",
     "rss:oai:arXiv.org:2605.23921v1": "2026-05-26",
     "rss:oai:arXiv.org:2606.04214v1": "2026-06-04"
@@ -59,6 +62,7 @@
     "pmid:42206834": "2026-05-29",
     "rss:https://www.nature.com/articles/s41522-026-01031-6": "2026-06-06",
     "rss:https://www.nature.com/articles/s41598-026-55425-9": "2026-05-30",
-    "rss:https://www.nature.com/articles/s41598-026-55571-0": "2026-05-31"
+    "rss:https://www.nature.com/articles/s41598-026-55571-0": "2026-05-31",
+    "rss:https://www.nature.com/articles/s41598-026-56308-9": "2026-06-08"
   }
 }
