@@ -18,7 +18,8 @@
     "rss:oai:arXiv.org:2606.02624v1": "2026-06-03",
     "rss:oai:arXiv.org:2606.04020v1": "2026-06-04",
     "rss:oai:arXiv.org:2606.05474v1": "2026-06-05",
-    "rss:oai:arXiv.org:2606.13713v1": "2026-06-15"
+    "rss:oai:arXiv.org:2606.13713v1": "2026-06-15",
+    "rss:oai:arXiv.org:2606.15422v1": "2026-06-16"
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01233-9": "2026-05-23",
@@ -29,6 +30,7 @@
     "rss:https://www.nature.com/articles/s42256-026-01245-5": "2026-06-01",
     "rss:https://www.nature.com/articles/s42256-026-01248-2": "2026-05-31",
     "rss:https://www.nature.com/articles/s42256-026-01249-1": "2026-06-06",
+    "rss:https://www.nature.com/articles/s42256-026-01255-3": "2026-06-16",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1tp3r2f": "2026-05-27",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1tq2vxa": "2026-05-28",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1tqvuz9": "2026-05-29",
@@ -59,6 +61,7 @@
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u0cf8z": "2026-06-09",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u1p13h": "2026-06-10",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u29h1y": "2026-06-11",
+    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u72xs8": "2026-06-16",
     "rss:oai:arXiv.org:2605.22995v1": "2026-05-25",
     "rss:oai:arXiv.org:2605.23921v1": "2026-05-26",
     "rss:oai:arXiv.org:2606.04214v1": "2026-06-04",
@@ -72,6 +75,7 @@
     "pmid:41628813": "2026-06-05",
     "pmid:41747251": "2026-06-02",
     "pmid:41782368": "2026-06-09",
+    "pmid:41979424": "2026-06-16",
     "pmid:41997241": "2026-06-07",
     "pmid:42013838": "2026-06-12",
     "pmid:42023429": "2026-06-11",
