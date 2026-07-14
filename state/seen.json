@@ -44,7 +44,8 @@
     "rss:oai:arXiv.org:2606.15422v1": "2026-06-16",
     "rss:oai:arXiv.org:2606.26563v1": "2026-06-26",
     "rss:oai:arXiv.org:2606.27939v1": "2026-06-29",
-    "rss:oai:arXiv.org:2607.01362v1": "2026-07-03"
+    "rss:oai:arXiv.org:2607.01362v1": "2026-07-03",
+    "rss:oai:arXiv.org:2607.09746v1": "2026-07-14"
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01233-9": "2026-05-23",
@@ -93,6 +94,7 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1usa46w": "2026-07-10",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1uue8cc": "2026-07-12",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1uv1xb3": "2026-07-13",
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1uw4j6a": "2026-07-14",
     "rss:oai:arXiv.org:2605.23926v1": "2026-05-26",
     "rss:oai:arXiv.org:2606.06519v1": "2026-06-08",
     "rss:oai:arXiv.org:2606.26161v1": "2026-06-26",
@@ -176,6 +178,7 @@
     "pmid:42303162": "2026-07-09",
     "pmid:42342752": "2026-06-25",
     "pmid:42420064": "2026-07-13",
+    "rss:https://www.nature.com/articles/s41467-026-75141-2": "2026-07-14",
     "rss:https://www.nature.com/articles/s41467-026-75300-5": "2026-07-07",
     "rss:https://www.nature.com/articles/s41467-026-75385-y": "2026-07-08",
     "rss:https://www.nature.com/articles/s41522-026-01031-6": "2026-06-06",
