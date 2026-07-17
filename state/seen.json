@@ -1,6 +1,7 @@
 {
   "BioAI": {
     "pmid:40983504": "2026-06-11",
+    "pmid:41436719": "2026-07-17",
     "pmid:41576559": "2026-06-08",
     "pmid:41593888": "2026-06-12",
     "pmid:41619947": "2026-07-08",
@@ -62,6 +63,7 @@
     "rss:https://www.nature.com/articles/s42256-026-01255-3": "2026-06-16",
     "rss:https://www.nature.com/articles/s42256-026-01256-2": "2026-06-21",
     "rss:https://www.nature.com/articles/s42256-026-01258-0": "2026-06-27",
+    "rss:https://www.nature.com/articles/s42256-026-01259-z": "2026-07-17",
     "rss:https://www.nature.com/articles/s42256-026-01261-5": "2026-07-01",
     "rss:https://www.nature.com/articles/s42256-026-01262-4": "2026-07-06",
     "rss:https://www.nature.com/articles/s42256-026-01267-z": "2026-07-11",
@@ -128,6 +130,7 @@
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1uswqea": "2026-07-11",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1utv15w": "2026-07-12",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1uunwdf": "2026-07-13",
+    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1uyfvfd": "2026-07-17",
     "rss:oai:arXiv.org:2605.22995v1": "2026-05-25",
     "rss:oai:arXiv.org:2605.23921v1": "2026-05-26",
     "rss:oai:arXiv.org:2606.04214v1": "2026-06-04",
@@ -193,6 +196,7 @@
     "rss:https://www.nature.com/articles/s41598-026-55571-0": "2026-05-31",
     "rss:https://www.nature.com/articles/s41598-026-56308-9": "2026-06-08",
     "rss:https://www.nature.com/articles/s41598-026-60075-y": "2026-07-05",
+    "rss:https://www.nature.com/articles/s41598-026-61299-8": "2026-07-17",
     "rss:https://www.nature.com/articles/s41598-026-62960-y": "2026-07-16",
     "rss:https://www.nature.com/articles/s44298-026-00202-8": "2026-06-28"
   }
