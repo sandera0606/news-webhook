@@ -28,6 +28,7 @@
     "pmid:42387167": "2026-07-06",
     "pmid:42413783": "2026-07-20",
     "pmid:42430722": "2026-07-13",
+    "pmid:42464782": "2026-07-24",
     "rss:https://www.nature.com/articles/s41467-026-74559-y": "2026-06-27",
     "rss:https://www.nature.com/articles/s41598-026-55611-9": "2026-06-06",
     "rss:https://www.nature.com/articles/s41598-026-57915-2": "2026-06-22",
@@ -57,7 +58,6 @@
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01234-8": "2026-05-25",
-    "rss:https://www.nature.com/articles/s42256-026-01238-4": "2026-05-24",
     "rss:https://www.nature.com/articles/s42256-026-01242-8": "2026-06-02",
     "rss:https://www.nature.com/articles/s42256-026-01243-7": "2026-05-30",
     "rss:https://www.nature.com/articles/s42256-026-01245-5": "2026-06-01",
@@ -111,6 +111,7 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1v2ef98": "2026-07-21",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1v38k1m": "2026-07-22",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1v4c6ag": "2026-07-23",
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1v4ns8l": "2026-07-24",
     "rss:oai:arXiv.org:2605.23926v1": "2026-05-26",
     "rss:oai:arXiv.org:2606.06519v1": "2026-06-08",
     "rss:oai:arXiv.org:2606.26161v1": "2026-06-26",
@@ -158,7 +159,8 @@
     "rss:oai:arXiv.org:2607.13038v1": "2026-07-16",
     "rss:oai:arXiv.org:2607.15364v1": "2026-07-20",
     "rss:oai:arXiv.org:2607.16218v1": "2026-07-21",
-    "rss:oai:arXiv.org:2607.18424v1": "2026-07-22"
+    "rss:oai:arXiv.org:2607.18424v1": "2026-07-22",
+    "rss:oai:arXiv.org:2607.20695v1": "2026-07-24"
   },
   "biology": {
     "pmid:41057263": "2026-07-03",
@@ -166,7 +168,6 @@
     "pmid:41212681": "2026-06-29",
     "pmid:41314913": "2026-06-04",
     "pmid:41427517": "2026-06-23",
-    "pmid:41435452": "2026-05-24",
     "pmid:41441852": "2026-06-01",
     "pmid:41543272": "2026-06-10",
     "pmid:41628813": "2026-06-05",
@@ -192,6 +193,7 @@
     "pmid:42173386": "2026-06-22",
     "pmid:42178743": "2026-05-26",
     "pmid:42183653": "2026-05-28",
+    "pmid:42190664": "2026-07-24",
     "pmid:42200190": "2026-06-18",
     "pmid:42206834": "2026-05-29",
     "pmid:42268478": "2026-06-14",
