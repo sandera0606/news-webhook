@@ -26,6 +26,7 @@
     "pmid:42333183": "2026-06-30",
     "pmid:42366266": "2026-07-05",
     "pmid:42387167": "2026-07-06",
+    "pmid:42391906": "2026-08-01",
     "pmid:42413783": "2026-07-20",
     "pmid:42430722": "2026-07-13",
     "pmid:42464782": "2026-07-24",
@@ -39,7 +40,6 @@
     "rss:https://www.nature.com/articles/s41698-026-01600-0": "2026-07-26",
     "rss:https://www.nature.com/articles/s42003-026-10497-1": "2026-06-21",
     "rss:oai:arXiv.org:2604.04287v2": "2026-06-10",
-    "rss:oai:arXiv.org:2605.30963v1": "2026-06-01",
     "rss:oai:arXiv.org:2606.00955v1": "2026-06-02",
     "rss:oai:arXiv.org:2606.02624v1": "2026-06-03",
     "rss:oai:arXiv.org:2606.04020v1": "2026-06-04",
@@ -58,7 +58,6 @@
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01242-8": "2026-06-02",
-    "rss:https://www.nature.com/articles/s42256-026-01245-5": "2026-06-01",
     "rss:https://www.nature.com/articles/s42256-026-01249-1": "2026-06-06",
     "rss:https://www.nature.com/articles/s42256-026-01252-6": "2026-06-23",
     "rss:https://www.nature.com/articles/s42256-026-01255-3": "2026-06-16",
@@ -70,6 +69,7 @@
     "rss:https://www.nature.com/articles/s42256-026-01265-1": "2026-07-19",
     "rss:https://www.nature.com/articles/s42256-026-01267-z": "2026-07-11",
     "rss:https://www.nature.com/articles/s42256-026-01268-y": "2026-07-26",
+    "rss:https://www.nature.com/articles/s42256-026-01284-y": "2026-08-01",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1tvameq": "2026-06-03",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1twmhud": "2026-06-04",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1txlxm6": "2026-06-05",
@@ -118,7 +118,6 @@
     "rss:oai:arXiv.org:2607.01394v1": "2026-07-03"
   },
   "anti-ai": {
-    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ttrxxz": "2026-06-01",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tu09ct": "2026-06-02",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tvmj6z": "2026-06-03",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tx6m94": "2026-06-05",
@@ -166,7 +165,6 @@
     "pmid:41212681": "2026-06-29",
     "pmid:41314913": "2026-06-04",
     "pmid:41427517": "2026-06-23",
-    "pmid:41441852": "2026-06-01",
     "pmid:41543272": "2026-06-10",
     "pmid:41588195": "2026-07-31",
     "pmid:41628813": "2026-06-05",
