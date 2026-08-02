@@ -32,6 +32,7 @@
     "pmid:42464782": "2026-07-24",
     "pmid:42483882": "2026-07-28",
     "pmid:42504045": "2026-07-30",
+    "pmid:42535626": "2026-08-02",
     "rss:https://www.nature.com/articles/s41467-026-74559-y": "2026-06-27",
     "rss:https://www.nature.com/articles/s41598-026-55611-9": "2026-06-06",
     "rss:https://www.nature.com/articles/s41598-026-57915-2": "2026-06-22",
@@ -40,7 +41,6 @@
     "rss:https://www.nature.com/articles/s41698-026-01600-0": "2026-07-26",
     "rss:https://www.nature.com/articles/s42003-026-10497-1": "2026-06-21",
     "rss:oai:arXiv.org:2604.04287v2": "2026-06-10",
-    "rss:oai:arXiv.org:2606.00955v1": "2026-06-02",
     "rss:oai:arXiv.org:2606.02624v1": "2026-06-03",
     "rss:oai:arXiv.org:2606.04020v1": "2026-06-04",
     "rss:oai:arXiv.org:2606.05474v1": "2026-06-05",
@@ -57,7 +57,6 @@
     "rss:oai:arXiv.org:2607.28514v1": "2026-07-31"
   },
   "ai": {
-    "rss:https://www.nature.com/articles/s42256-026-01242-8": "2026-06-02",
     "rss:https://www.nature.com/articles/s42256-026-01249-1": "2026-06-06",
     "rss:https://www.nature.com/articles/s42256-026-01252-6": "2026-06-23",
     "rss:https://www.nature.com/articles/s42256-026-01255-3": "2026-06-16",
@@ -113,12 +112,12 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1v9v4e7": "2026-07-29",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vahcwo": "2026-07-30",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vawwb8": "2026-07-31",
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vcrki2": "2026-08-02",
     "rss:oai:arXiv.org:2606.06519v1": "2026-06-08",
     "rss:oai:arXiv.org:2606.26161v1": "2026-06-26",
     "rss:oai:arXiv.org:2607.01394v1": "2026-07-03"
   },
   "anti-ai": {
-    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tu09ct": "2026-06-02",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tvmj6z": "2026-06-03",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tx6m94": "2026-06-05",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tzwnhi": "2026-06-08",
@@ -169,7 +168,6 @@
     "pmid:41588195": "2026-07-31",
     "pmid:41628813": "2026-06-05",
     "pmid:41649109": "2026-06-26",
-    "pmid:41747251": "2026-06-02",
     "pmid:41782368": "2026-06-09",
     "pmid:41794399": "2026-07-11",
     "pmid:41807248": "2026-07-23",
@@ -188,6 +186,7 @@
     "pmid:42173386": "2026-06-22",
     "pmid:42190664": "2026-07-24",
     "pmid:42200190": "2026-06-18",
+    "pmid:42263664": "2026-08-02",
     "pmid:42268478": "2026-06-14",
     "pmid:42297998": "2026-06-21",
     "pmid:42302780": "2026-07-10",
