@@ -40,8 +40,8 @@
     "rss:https://www.nature.com/articles/s41598-026-61754-6": "2026-07-19",
     "rss:https://www.nature.com/articles/s41698-026-01600-0": "2026-07-26",
     "rss:https://www.nature.com/articles/s42003-026-10497-1": "2026-06-21",
+    "rss:oai:arXiv.org:2603.11872v3": "2026-08-03",
     "rss:oai:arXiv.org:2604.04287v2": "2026-06-10",
-    "rss:oai:arXiv.org:2606.02624v1": "2026-06-03",
     "rss:oai:arXiv.org:2606.04020v1": "2026-06-04",
     "rss:oai:arXiv.org:2606.05474v1": "2026-06-05",
     "rss:oai:arXiv.org:2606.13713v1": "2026-06-15",
@@ -69,7 +69,6 @@
     "rss:https://www.nature.com/articles/s42256-026-01267-z": "2026-07-11",
     "rss:https://www.nature.com/articles/s42256-026-01268-y": "2026-07-26",
     "rss:https://www.nature.com/articles/s42256-026-01284-y": "2026-08-01",
-    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1tvameq": "2026-06-03",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1twmhud": "2026-06-04",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1txlxm6": "2026-06-05",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1u0fv7u": "2026-06-09",
@@ -115,10 +114,10 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vcrki2": "2026-08-02",
     "rss:oai:arXiv.org:2606.06519v1": "2026-06-08",
     "rss:oai:arXiv.org:2606.26161v1": "2026-06-26",
-    "rss:oai:arXiv.org:2607.01394v1": "2026-07-03"
+    "rss:oai:arXiv.org:2607.01394v1": "2026-07-03",
+    "rss:oai:arXiv.org:2607.28632v1": "2026-08-03"
   },
   "anti-ai": {
-    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tvmj6z": "2026-06-03",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tx6m94": "2026-06-05",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1tzwnhi": "2026-06-08",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u0cf8z": "2026-06-09",
@@ -194,6 +193,7 @@
     "pmid:42342752": "2026-06-25",
     "pmid:42420064": "2026-07-13",
     "pmid:42446821": "2026-07-18",
+    "pmid:42467454": "2026-08-03",
     "pmid:42486099": "2026-07-27",
     "pmid:42501080": "2026-07-30",
     "rss:https://www.nature.com/articles/s41467-026-75141-2": "2026-07-14",
