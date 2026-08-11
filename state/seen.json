@@ -1,6 +1,5 @@
 {
   "BioAI": {
-    "pmid:40983504": "2026-06-11",
     "pmid:41436719": "2026-07-17",
     "pmid:41457873": "2026-07-22",
     "pmid:41593888": "2026-06-12",
@@ -54,7 +53,8 @@
     "rss:oai:arXiv.org:2607.24848v1": "2026-07-29",
     "rss:oai:arXiv.org:2607.28514v1": "2026-07-31",
     "rss:oai:arXiv.org:2608.00697v1": "2026-08-04",
-    "rss:oai:arXiv.org:2608.02866v1": "2026-08-05"
+    "rss:oai:arXiv.org:2608.02866v1": "2026-08-05",
+    "rss:oai:arXiv.org:2608.08366v1": "2026-08-11"
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01252-6": "2026-06-23",
@@ -71,7 +71,6 @@
     "rss:https://www.nature.com/articles/s42256-026-01278-w": "2026-08-09",
     "rss:https://www.nature.com/articles/s42256-026-01282-0": "2026-08-08",
     "rss:https://www.nature.com/articles/s42256-026-01284-y": "2026-08-01",
-    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1u2tk0i": "2026-06-11",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1u390q5": "2026-06-12",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1u4hy2x": "2026-06-13",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1u58mkq": "2026-06-14",
@@ -113,13 +112,13 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vei12v": "2026-08-04",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vfrco1": "2026-08-05",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vjvzm4": "2026-08-10",
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vkrnb5": "2026-08-11",
     "rss:oai:arXiv.org:2606.26161v1": "2026-06-26",
     "rss:oai:arXiv.org:2607.01394v1": "2026-07-03",
     "rss:oai:arXiv.org:2607.28632v1": "2026-08-03",
     "rss:oai:arXiv.org:2608.05168v1": "2026-08-07"
   },
   "anti-ai": {
-    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u29h1y": "2026-06-11",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u72xs8": "2026-06-16",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u9mlm1": "2026-06-19",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ud9nag": "2026-06-23",
@@ -171,7 +170,6 @@
     "pmid:41962202": "2026-08-09",
     "pmid:41979424": "2026-06-16",
     "pmid:42013838": "2026-06-12",
-    "pmid:42023429": "2026-06-11",
     "pmid:42045650": "2026-08-04",
     "pmid:42092133": "2026-07-02",
     "pmid:42119787": "2026-07-15",
@@ -196,6 +194,7 @@
     "rss:https://www.nature.com/articles/s41467-026-75385-y": "2026-07-08",
     "rss:https://www.nature.com/articles/s41467-026-75942-5": "2026-08-06",
     "rss:https://www.nature.com/articles/s41467-026-75956-z": "2026-07-28",
+    "rss:https://www.nature.com/articles/s41467-026-76487-3": "2026-08-11",
     "rss:https://www.nature.com/articles/s41538-026-01051-8": "2026-08-05",
     "rss:https://www.nature.com/articles/s41565-026-02205-1": "2026-07-06",
     "rss:https://www.nature.com/articles/s41598-026-60075-y": "2026-07-05",
