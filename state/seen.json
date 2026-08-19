@@ -41,7 +41,6 @@
     "rss:oai:arXiv.org:2511.19264v2": "2026-08-06",
     "rss:oai:arXiv.org:2603.11872v3": "2026-08-03",
     "rss:oai:arXiv.org:2606.12838v2": "2026-08-17",
-    "rss:oai:arXiv.org:2606.14510v1": "2026-06-19",
     "rss:oai:arXiv.org:2606.26563v1": "2026-06-26",
     "rss:oai:arXiv.org:2606.27939v1": "2026-06-29",
     "rss:oai:arXiv.org:2607.01362v1": "2026-07-03",
@@ -55,7 +54,8 @@
     "rss:oai:arXiv.org:2608.08366v1": "2026-08-11",
     "rss:oai:arXiv.org:2608.10598v1": "2026-08-12",
     "rss:oai:arXiv.org:2608.11475v1": "2026-08-13",
-    "rss:oai:arXiv.org:2608.12090v2": "2026-08-14"
+    "rss:oai:arXiv.org:2608.12090v2": "2026-08-14",
+    "rss:oai:arXiv.org:2608.17381v1": "2026-08-19"
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01252-6": "2026-06-23",
@@ -71,8 +71,8 @@
     "rss:https://www.nature.com/articles/s42256-026-01278-w": "2026-08-09",
     "rss:https://www.nature.com/articles/s42256-026-01282-0": "2026-08-08",
     "rss:https://www.nature.com/articles/s42256-026-01284-y": "2026-08-01",
+    "rss:https://www.nature.com/articles/s42256-026-01291-z": "2026-08-19",
     "rss:https://www.nature.com/articles/s42256-026-01292-y": "2026-08-12",
-    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1u9j7md": "2026-06-19",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1uatlzx": "2026-06-20",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1ucm508": "2026-06-22",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1ue0hlp": "2026-06-24",
@@ -120,7 +120,6 @@
     "rss:oai:arXiv.org:2608.13567v1": "2026-08-17"
   },
   "anti-ai": {
-    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1u9mlm1": "2026-06-19",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ud9nag": "2026-06-23",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ugat7n": "2026-06-27",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ui2bge": "2026-06-29",
@@ -169,7 +168,6 @@
     "pmid:41855975": "2026-07-12",
     "pmid:41863079": "2026-06-20",
     "pmid:41877484": "2026-07-04",
-    "pmid:41881193": "2026-06-19",
     "pmid:41905703": "2026-06-30",
     "pmid:41962202": "2026-08-09",
     "pmid:42045650": "2026-08-04",
@@ -207,6 +205,7 @@
     "rss:https://www.nature.com/articles/s41598-026-61844-5": "2026-07-25",
     "rss:https://www.nature.com/articles/s41598-026-62717-7": "2026-07-20",
     "rss:https://www.nature.com/articles/s41598-026-62960-y": "2026-07-16",
+    "rss:https://www.nature.com/articles/s41598-026-63387-1": "2026-08-19",
     "rss:https://www.nature.com/articles/s41598-026-63389-z": "2026-07-21",
     "rss:https://www.nature.com/articles/s41598-026-63686-7": "2026-07-26",
     "rss:https://www.nature.com/articles/s41598-026-64046-1": "2026-08-08",
