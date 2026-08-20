@@ -10,7 +10,6 @@
     "pmid:42070922": "2026-07-01",
     "pmid:42105763": "2026-07-10",
     "pmid:42140194": "2026-06-23",
-    "pmid:42218857": "2026-06-20",
     "pmid:42252993": "2026-07-07",
     "pmid:42268731": "2026-07-16",
     "pmid:42302781": "2026-07-12",
@@ -55,7 +54,8 @@
     "rss:oai:arXiv.org:2608.10598v1": "2026-08-12",
     "rss:oai:arXiv.org:2608.11475v1": "2026-08-13",
     "rss:oai:arXiv.org:2608.12090v2": "2026-08-14",
-    "rss:oai:arXiv.org:2608.17381v1": "2026-08-19"
+    "rss:oai:arXiv.org:2608.17381v1": "2026-08-19",
+    "rss:oai:arXiv.org:2608.18982v1": "2026-08-20"
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01252-6": "2026-06-23",
@@ -73,7 +73,6 @@
     "rss:https://www.nature.com/articles/s42256-026-01284-y": "2026-08-01",
     "rss:https://www.nature.com/articles/s42256-026-01291-z": "2026-08-19",
     "rss:https://www.nature.com/articles/s42256-026-01292-y": "2026-08-12",
-    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1uatlzx": "2026-06-20",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1ucm508": "2026-06-22",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1ue0hlp": "2026-06-24",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1ueiam6": "2026-06-25",
@@ -112,6 +111,7 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1voazhm": "2026-08-15",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vpt6ay": "2026-08-16",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vrk7t5": "2026-08-18",
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtdpve": "2026-08-20",
     "rss:oai:arXiv.org:2606.26161v1": "2026-06-26",
     "rss:oai:arXiv.org:2607.01394v1": "2026-07-03",
     "rss:oai:arXiv.org:2607.28632v1": "2026-08-03",
@@ -152,7 +152,8 @@
     "rss:oai:arXiv.org:2608.11344v1": "2026-08-13",
     "rss:oai:arXiv.org:2608.12350v1": "2026-08-14",
     "rss:oai:arXiv.org:2608.13695v1": "2026-08-17",
-    "rss:oai:arXiv.org:2608.14606v1": "2026-08-18"
+    "rss:oai:arXiv.org:2608.14606v1": "2026-08-18",
+    "rss:oai:arXiv.org:2608.18122v1": "2026-08-20"
   },
   "biology": {
     "pmid:41057263": "2026-07-03",
@@ -166,7 +167,6 @@
     "pmid:41794399": "2026-07-11",
     "pmid:41807248": "2026-07-23",
     "pmid:41855975": "2026-07-12",
-    "pmid:41863079": "2026-06-20",
     "pmid:41877484": "2026-07-04",
     "pmid:41905703": "2026-06-30",
     "pmid:41962202": "2026-08-09",
