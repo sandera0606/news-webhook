@@ -9,7 +9,6 @@
     "pmid:42058448": "2026-07-02",
     "pmid:42070922": "2026-07-01",
     "pmid:42105763": "2026-07-10",
-    "pmid:42140194": "2026-06-23",
     "pmid:42252993": "2026-07-07",
     "pmid:42268731": "2026-07-16",
     "pmid:42302781": "2026-07-12",
@@ -57,7 +56,6 @@
     "rss:oai:arXiv.org:2608.18982v1": "2026-08-20"
   },
   "ai": {
-    "rss:https://www.nature.com/articles/s42256-026-01252-6": "2026-06-23",
     "rss:https://www.nature.com/articles/s42256-026-01258-0": "2026-06-27",
     "rss:https://www.nature.com/articles/s42256-026-01259-z": "2026-07-17",
     "rss:https://www.nature.com/articles/s42256-026-01261-5": "2026-07-01",
@@ -111,6 +109,7 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vrk7t5": "2026-08-18",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtdpve": "2026-08-20",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vv2nkh": "2026-08-22",
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vvii1j": "2026-08-23",
     "rss:oai:arXiv.org:2606.26161v1": "2026-06-26",
     "rss:oai:arXiv.org:2607.01394v1": "2026-07-03",
     "rss:oai:arXiv.org:2607.28632v1": "2026-08-03",
@@ -119,7 +118,6 @@
     "rss:oai:arXiv.org:2608.13567v1": "2026-08-17"
   },
   "anti-ai": {
-    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ud9nag": "2026-06-23",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ugat7n": "2026-06-27",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ui2bge": "2026-06-29",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1ujv4vl": "2026-07-01",
@@ -159,7 +157,6 @@
     "pmid:41057263": "2026-07-03",
     "pmid:41124321": "2026-07-01",
     "pmid:41212681": "2026-06-29",
-    "pmid:41427517": "2026-06-23",
     "pmid:41427586": "2026-08-16",
     "pmid:41543272": "2026-08-14",
     "pmid:41588195": "2026-07-31",
@@ -189,6 +186,7 @@
     "pmid:42532034": "2026-08-15",
     "pmid:42567105": "2026-08-10",
     "pmid:42623099": "2026-08-22",
+    "pmid:42628308": "2026-08-23",
     "rss:https://www.nature.com/articles/s41467-026-75141-2": "2026-07-14",
     "rss:https://www.nature.com/articles/s41467-026-75300-5": "2026-07-07",
     "rss:https://www.nature.com/articles/s41467-026-75385-y": "2026-07-08",
