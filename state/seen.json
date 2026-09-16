@@ -1,6 +1,5 @@
 {
   "BioAI": {
-    "pmid:41436719": "2026-07-17",
     "pmid:41457873": "2026-07-22",
     "pmid:41693145": "2026-08-16",
     "pmid:41932431": "2026-08-31",
@@ -51,10 +50,10 @@
     "rss:oai:arXiv.org:2609.02344v1": "2026-09-03",
     "rss:oai:arXiv.org:2609.02963v1": "2026-09-04",
     "rss:oai:arXiv.org:2609.04465v1": "2026-09-07",
-    "rss:oai:arXiv.org:2609.10831v1": "2026-09-11"
+    "rss:oai:arXiv.org:2609.10831v1": "2026-09-11",
+    "rss:oai:arXiv.org:2609.16101v1": "2026-09-16"
   },
   "ai": {
-    "rss:https://www.nature.com/articles/s42256-026-01259-z": "2026-07-17",
     "rss:https://www.nature.com/articles/s42256-026-01265-1": "2026-07-19",
     "rss:https://www.nature.com/articles/s42256-026-01268-y": "2026-07-26",
     "rss:https://www.nature.com/articles/s42256-026-01275-z": "2026-08-06",
@@ -109,6 +108,7 @@
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1wf611v": "2026-09-13",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1wft2qd": "2026-09-14",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1wgazy4": "2026-09-15",
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1whx9tr": "2026-09-16",
     "rss:oai:arXiv.org:2607.28632v1": "2026-08-03",
     "rss:oai:arXiv.org:2608.05168v1": "2026-08-07",
     "rss:oai:arXiv.org:2608.12345v1": "2026-08-14",
@@ -117,7 +117,6 @@
     "rss:oai:arXiv.org:2608.23622v1": "2026-08-27"
   },
   "anti-ai": {
-    "rss:https://www.reddit.com/r/BetterOffline/top/t3_1uyfvfd": "2026-07-17",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1v3sgik": "2026-07-23",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1vi9wlr": "2026-08-08",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1w4r39z": "2026-09-02",
@@ -148,7 +147,8 @@
     "rss:oai:arXiv.org:2609.01773v1": "2026-09-03",
     "rss:oai:arXiv.org:2609.09320v1": "2026-09-10",
     "rss:oai:arXiv.org:2609.10740v1": "2026-09-11",
-    "rss:oai:arXiv.org:2609.12501v1": "2026-09-14"
+    "rss:oai:arXiv.org:2609.12501v1": "2026-09-14",
+    "rss:oai:arXiv.org:2609.16000v1": "2026-09-16"
   },
   "biology": {
     "pmid:41427586": "2026-08-16",
@@ -188,7 +188,6 @@
     "rss:https://www.nature.com/articles/s41538-026-01128-4": "2026-09-15",
     "rss:https://www.nature.com/articles/s41586-026-10952-3": "2026-09-02",
     "rss:https://www.nature.com/articles/s41589-026-02334-7": "2026-09-14",
-    "rss:https://www.nature.com/articles/s41598-026-61299-8": "2026-07-17",
     "rss:https://www.nature.com/articles/s41598-026-61687-0": "2026-07-19",
     "rss:https://www.nature.com/articles/s41598-026-61844-5": "2026-07-25",
     "rss:https://www.nature.com/articles/s41598-026-62717-7": "2026-07-20",
@@ -202,6 +201,7 @@
     "rss:https://www.nature.com/articles/s41598-026-69236-5": "2026-09-08",
     "rss:https://www.nature.com/articles/s41598-026-70472-y": "2026-09-06",
     "rss:https://www.nature.com/articles/s41598-026-71761-2": "2026-09-13",
+    "rss:https://www.nature.com/articles/s41598-026-71877-5": "2026-09-16",
     "rss:https://www.nature.com/articles/s42003-026-10910-9": "2026-09-12",
     "rss:https://www.nature.com/articles/s44160-026-01166-6": "2026-09-07"
   }
