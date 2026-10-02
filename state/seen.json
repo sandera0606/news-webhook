@@ -12,7 +12,6 @@
     "pmid:42366026": "2026-08-07",
     "pmid:42424436": "2026-08-21",
     "pmid:42463045": "2026-09-22",
-    "pmid:42535626": "2026-08-02",
     "pmid:42590833": "2026-08-15",
     "pmid:42648065": "2026-09-27",
     "pmid:42695441": "2026-09-06",
@@ -52,7 +51,8 @@
     "rss:oai:arXiv.org:2609.10831v1": "2026-09-11",
     "rss:oai:arXiv.org:2609.16101v1": "2026-09-16",
     "rss:oai:arXiv.org:2609.17721v1": "2026-09-17",
-    "rss:oai:arXiv.org:2609.27207v1": "2026-09-24"
+    "rss:oai:arXiv.org:2609.27207v1": "2026-09-24",
+    "rss:oai:arXiv.org:2610.00191v1": "2026-10-02"
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01275-z": "2026-08-06",
@@ -68,7 +68,7 @@
     "rss:https://www.nature.com/articles/s42256-026-01302-z": "2026-09-02",
     "rss:https://www.nature.com/articles/s42256-026-01304-x": "2026-09-27",
     "rss:https://www.nature.com/articles/s42256-026-01312-x": "2026-09-19",
-    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vcrki2": "2026-08-02",
+    "rss:https://www.nature.com/articles/s42256-026-01313-w": "2026-10-02",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vei12v": "2026-08-04",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vfrco1": "2026-08-05",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vjvzm4": "2026-08-10",
@@ -150,7 +150,8 @@
     "rss:oai:arXiv.org:2609.25186v1": "2026-09-23",
     "rss:oai:arXiv.org:2609.26932v1": "2026-09-24",
     "rss:oai:arXiv.org:2609.28476v1": "2026-09-25",
-    "rss:oai:arXiv.org:2609.30747v1": "2026-09-28"
+    "rss:oai:arXiv.org:2609.30747v1": "2026-09-28",
+    "rss:oai:arXiv.org:2610.00185v1": "2026-10-02"
   },
   "biology": {
     "pmid:41427586": "2026-08-16",
@@ -165,7 +166,6 @@
     "pmid:42167005": "2026-08-17",
     "pmid:42204786": "2026-09-27",
     "pmid:42262882": "2026-08-12",
-    "pmid:42263664": "2026-08-02",
     "pmid:42310192": "2026-09-17",
     "pmid:42401289": "2026-09-21",
     "pmid:42442453": "2026-08-30",
@@ -173,6 +173,7 @@
     "pmid:42467454": "2026-08-03",
     "pmid:42478263": "2026-09-29",
     "pmid:42485704": "2026-08-13",
+    "pmid:42522380": "2026-10-02",
     "pmid:42532034": "2026-08-15",
     "pmid:42567105": "2026-08-10",
     "pmid:42623099": "2026-08-22",
