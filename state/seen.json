@@ -10,7 +10,6 @@
     "pmid:42229388": "2026-09-25",
     "pmid:42284830": "2026-09-21",
     "pmid:42314966": "2026-09-10",
-    "pmid:42424436": "2026-08-21",
     "pmid:42463045": "2026-09-22",
     "pmid:42464782": "2026-10-13",
     "pmid:42502841": "2026-10-10",
@@ -54,7 +53,6 @@
   },
   "ai": {
     "rss:https://www.nature.com/articles/s42256-026-01283-z": "2026-08-29",
-    "rss:https://www.nature.com/articles/s42256-026-01285-x": "2026-08-21",
     "rss:https://www.nature.com/articles/s42256-026-01289-7": "2026-09-12",
     "rss:https://www.nature.com/articles/s42256-026-01293-x": "2026-09-07",
     "rss:https://www.nature.com/articles/s42256-026-01298-6": "2026-09-10",
@@ -123,7 +121,6 @@
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1wtkor2": "2026-09-30",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1x6tlxq": "2026-10-16",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1xasyo8": "2026-10-20",
-    "rss:oai:arXiv.org:2608.19390v1": "2026-08-21",
     "rss:oai:arXiv.org:2608.20421v1": "2026-08-24",
     "rss:oai:arXiv.org:2608.23567v1": "2026-08-26",
     "rss:oai:arXiv.org:2608.25236v1": "2026-08-27",
@@ -147,7 +144,8 @@
     "rss:oai:arXiv.org:2610.10816v1": "2026-10-09",
     "rss:oai:arXiv.org:2610.12788v1": "2026-10-12",
     "rss:oai:arXiv.org:2610.19287v1": "2026-10-15",
-    "rss:oai:arXiv.org:2610.22409v1": "2026-10-19"
+    "rss:oai:arXiv.org:2610.22409v1": "2026-10-19",
+    "rss:oai:arXiv.org:2610.27881v1": "2026-10-21"
   },
   "biology": {
     "pmid:41427517": "2026-10-03",
@@ -170,12 +168,12 @@
     "pmid:42623099": "2026-08-22",
     "pmid:42623101": "2026-08-24",
     "pmid:42628308": "2026-08-23",
+    "pmid:42679820": "2026-10-21",
     "pmid:42687624": "2026-10-04",
     "pmid:42716374": "2026-10-14",
     "pmid:42771304": "2026-09-30",
     "pmid:42771306": "2026-10-13",
     "rss:https://www.nature.com/articles/s41467-026-76863-z": "2026-09-03",
-    "rss:https://www.nature.com/articles/s41467-026-77065-3": "2026-08-21",
     "rss:https://www.nature.com/articles/s41467-026-77177-w": "2026-09-10",
     "rss:https://www.nature.com/articles/s41467-026-77251-3": "2026-08-31",
     "rss:https://www.nature.com/articles/s41467-026-77873-7": "2026-09-24",
