@@ -35,7 +35,6 @@
     "rss:oai:arXiv.org:2410.20317v2": "2026-10-01",
     "rss:oai:arXiv.org:2503.21450v5": "2026-08-27",
     "rss:oai:arXiv.org:2607.17227v2": "2026-09-18",
-    "rss:oai:arXiv.org:2608.23722v1": "2026-08-26",
     "rss:oai:arXiv.org:2608.26419v1": "2026-08-28",
     "rss:oai:arXiv.org:2609.00518v1": "2026-09-02",
     "rss:oai:arXiv.org:2609.02344v1": "2026-09-03",
@@ -63,7 +62,6 @@
     "rss:https://www.nature.com/articles/s42256-026-01312-x": "2026-09-19",
     "rss:https://www.nature.com/articles/s42256-026-01313-w": "2026-10-02",
     "rss:https://www.nature.com/articles/s42256-026-01316-7": "2026-10-20",
-    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vym6cn": "2026-08-26",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1w10tax": "2026-08-28",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1w1wt1s": "2026-08-30",
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1w2wqbm": "2026-08-31",
@@ -120,7 +118,6 @@
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1wtkor2": "2026-09-30",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1x6tlxq": "2026-10-16",
     "rss:https://www.reddit.com/r/BetterOffline/top/t3_1xasyo8": "2026-10-20",
-    "rss:oai:arXiv.org:2608.23567v1": "2026-08-26",
     "rss:oai:arXiv.org:2608.25236v1": "2026-08-27",
     "rss:oai:arXiv.org:2608.26171v1": "2026-08-28",
     "rss:oai:arXiv.org:2608.27465v1": "2026-08-31",
@@ -144,7 +141,8 @@
     "rss:oai:arXiv.org:2610.19287v1": "2026-10-15",
     "rss:oai:arXiv.org:2610.22409v1": "2026-10-19",
     "rss:oai:arXiv.org:2610.27881v1": "2026-10-21",
-    "rss:oai:arXiv.org:2610.28830v1": "2026-10-22"
+    "rss:oai:arXiv.org:2610.28830v1": "2026-10-22",
+    "rss:oai:arXiv.org:2610.31739v1": "2026-10-26"
   },
   "biology": {
     "pmid:41427517": "2026-10-03",
@@ -171,6 +169,7 @@
     "pmid:42759923": "2026-10-25",
     "pmid:42771304": "2026-09-30",
     "pmid:42771306": "2026-10-13",
+    "pmid:42775150": "2026-10-26",
     "rss:https://www.nature.com/articles/s41467-026-76863-z": "2026-09-03",
     "rss:https://www.nature.com/articles/s41467-026-77177-w": "2026-09-10",
     "rss:https://www.nature.com/articles/s41467-026-77251-3": "2026-08-31",
